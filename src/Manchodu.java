@@ -12,6 +12,6 @@ public class Manchodu
 		
 		return "arif";
 		
-	} 
+	}  
 }
 
